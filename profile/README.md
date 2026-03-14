@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🍄 Mycel AI
+[![Mycel AI Banner](banner-light.png)](https://mycel-ai.de)
+
+[![Mycel AI Logo](logo-horizontal-light.png)](https://mycel-ai.de)
 
 ### *Cultivating Intelligent Transformation*
 
@@ -61,5 +63,9 @@ Smart city orchestration · Ethical AI governance · Policy simulation · Citize
 **Rooted in Germany · Growing globally**
 
 [Let's talk](https://mycel-ai.de) · [Explore solutions](https://mycel-ai.de)
+
+---
+
+<sub>**Brand assets:** [Logo (light)](logo-horizontal-light.png) · [Logo (dark)](logo-horizontal-dark.png) · [Banner (light)](banner-light.png) · [Banner (dark)](banner-dark.png)</sub>
 
 </div>
