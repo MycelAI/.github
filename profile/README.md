@@ -73,7 +73,7 @@ Smart city orchestration · Ethical AI governance · Policy simulation · Citize
 **Mycel UG (haftungsbeschränkt)** · Kollwitzstraße 76, 10435 Berlin, Germany  
 [hello@mycel-ai.de](mailto:hello@mycel-ai.de)
 
-[About](https://mycel-ai.de) · [Contact](https://mycel-ai.de) · [Insights](https://mycel-ai.de) · [Privacy](https://mycel-ai.de) · [Imprint](https://mycel-ai.de) · [Cookies](https://mycel-ai.de) · [LinkedIn](https://www.linkedin.com/company/mycel-ai)
+[About](https://mycel-ai.de/en/about) · [Contact](https://mycel-ai.de/en/contact) · [Insights](https://mycel-ai.de/en/blog) · [Privacy](https://mycel-ai.de/en/privacy) · [Imprint](https://mycel-ai.de/en/imprint) · [Cookies](https://mycel-ai.de/en/cookie-notice) · [LinkedIn](https://www.linkedin.com/company/mycel-ai)
 
 *© 2026 Mycel UG (haftungsbeschränkt). All rights reserved.*
 
