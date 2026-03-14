@@ -1,20 +1,65 @@
-# Mycel AI
+<div align="center">
 
-**Cultivating Intelligent Transformation**
+# 🍄 Mycel AI
 
-We grow AI-native solutions for research and innovation, businesses, and cities. For teams and individuals ready to make a real difference.
+### *Cultivating Intelligent Transformation*
 
-- **Website:** [mycel-ai.de](https://mycel-ai.de)
-- **Contact:** hello@mycel-ai.de
-- **Location:** Germany
-- **LinkedIn:** [company/mycel-ai](https://www.linkedin.com/company/mycel-ai)
+We grow **AI-native solutions** for research and innovation, businesses, and cities — for teams and individuals ready to make a real difference.
+
+[![Website](https://img.shields.io/badge/Website-mycel--ai.de-0d9488?style=for-the-badge&logo=link)](https://mycel-ai.de)
+[![Contact](https://img.shields.io/badge/Contact-hello%40mycel--ai.de-0d9488?style=for-the-badge&logo=minutemailer)](mailto:hello@mycel-ai.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mycel%20AI-0d9488?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/mycel-ai)
+[![Location](https://img.shields.io/badge/Location-Germany-0d9488?style=for-the-badge&logo=location-dot)](https://mycel-ai.de)
 
 ---
 
-### What we build
+</div>
 
-- **Research & Innovation** — Funding discovery, AI for scientific discovery, connected research, impact analytics
-- **Businesses** — AI transformation, custom AI agents, capacity building, regulatory readiness (EU AI Act, GDPR)
-- **Cities & Municipalities** — Smart city orchestration, ethical AI governance, policy simulation, citizen engagement
+## What we build
 
-Like mycelia networks that connect forests underground, we build systems that link what matters. Silently, reliably, at scale.
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🔬 Research & Innovation**
+
+*Transform ideas to real impact*
+
+Funding discovery · AI for scientific discovery · Connected research · Impact analytics
+
+</td>
+<td width="33%" align="center">
+
+**🏢 Businesses**
+
+*AI that works around the clock*
+
+AI transformation · Custom AI agents · Capacity building · EU AI Act & GDPR readiness
+
+</td>
+<td width="33%" align="center">
+
+**🏛️ Cities & Municipalities**
+
+*Govern AI responsibly*
+
+Smart city orchestration · Ethical AI governance · Policy simulation · Citizen engagement
+
+</td>
+</tr>
+</table>
+
+---
+
+> *Like mycelia networks that connect forests underground, we build systems that link what matters.*  
+> **Silently. Reliably. At scale.**
+
+---
+
+<div align="center">
+
+**Rooted in Germany · Growing globally**
+
+[Let's talk](https://mycel-ai.de) · [Explore solutions](https://mycel-ai.de)
+
+</div>
