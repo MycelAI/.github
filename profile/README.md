@@ -71,7 +71,7 @@ Smart city orchestration · Ethical AI governance · Policy simulation · Citize
 ### Mycel — AI-Native Consulting
 
 **Mycel UG (haftungsbeschränkt)** · Kollwitzstraße 76, 10435 Berlin, Germany  
-Phone [+49 177 7154311](tel:+491777154311) · [info@mycel-ai.de](mailto:info@mycel-ai.de)
+[hello@mycel-ai.de](mailto:hello@mycel-ai.de)
 
 [About](https://mycel-ai.de) · [Contact](https://mycel-ai.de) · [Insights](https://mycel-ai.de) · [Privacy](https://mycel-ai.de) · [Imprint](https://mycel-ai.de) · [Cookies](https://mycel-ai.de) · [LinkedIn](https://www.linkedin.com/company/mycel-ai)
 
