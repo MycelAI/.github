@@ -1,8 +1,6 @@
 <div align="center">
 
-[![Mycel AI Icon](icon-light.png)](https://mycel-ai.de)
-
-[![Mycel AI Logo](logo-light.png)](https://mycel-ai.de)
+[![Mycel](logo-dark.png)](https://mycel-ai.de)
 
 ### *Cultivating Intelligent Transformation*
 
@@ -64,8 +62,19 @@ Smart city orchestration · Ethical AI governance · Policy simulation · Citize
 
 [Let's talk](https://mycel-ai.de) · [Explore solutions](https://mycel-ai.de)
 
+<br>
+
+<img src="icon-dark.png" width="64" alt="Mycel" />
+
 ---
 
-<sub>**Brand assets:** [Logo (light)](logo-light.png) · [Logo (dark)](logo-dark.png) · [Icon (light)](icon-light.png) · [Icon (dark)](icon-dark.png)</sub>
+### Mycel — AI-Native Consulting
+
+**Mycel UG (haftungsbeschränkt)** · Kollwitzstraße 76, 10435 Berlin, Germany  
+Phone [+49 177 7154311](tel:+491777154311) · [info@mycel-ai.de](mailto:info@mycel-ai.de)
+
+[About](https://mycel-ai.de) · [Contact](https://mycel-ai.de) · [Insights](https://mycel-ai.de) · [Privacy](https://mycel-ai.de) · [Imprint](https://mycel-ai.de) · [Cookies](https://mycel-ai.de) · [LinkedIn](https://www.linkedin.com/company/mycel-ai)
+
+*© 2026 Mycel UG (haftungsbeschränkt). All rights reserved.*
 
 </div>
