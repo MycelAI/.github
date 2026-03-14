@@ -60,7 +60,7 @@ Smart city orchestration · Ethical AI governance · Policy simulation · Citize
 
 **Rooted in Germany · Growing globally**
 
-[Let's talk](https://mycel-ai.de) · [Explore solutions](https://mycel-ai.de)
+[Let's talk](https://mycel-ai.de/en/contact) · [Explore solutions](https://mycel-ai.de/en#solutions)
 
 <br>
 
